@@ -1,0 +1,9 @@
+
+.env
+*.whl
+*.gz
+build/
+dist/
+*.egg-info/
+main.ipynb
+__pycache__/
