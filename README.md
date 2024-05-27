@@ -1,4 +1,7 @@
-# Firecrawl Python SDK
+# Firecrawl Python SDK has moved to [main repo](https://github.com/mendableai/firecrawl)
+
+
+## [OLD] Firecrawl Python SDK
 
 The Firecrawl Python SDK is a library that allows you to easily scrape and crawl websites, and output the data in a format ready for use with language models (LLMs). It provides a simple and intuitive interface for interacting with the Firecrawl API.
 
